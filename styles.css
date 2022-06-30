@@ -1,6 +1,6 @@
 .bio{
     background-color: aqua;
-    width: 665px;
+    width: 400px;
     height: 400px;
     display: inline-block;
     
@@ -10,26 +10,26 @@
 }
 .photo{
     background-color: blue;
-    width: 665px;
+    width: 400px;
     height: 400px;
     display: inline-block;
-    margin-left: 670px;
+    margin-left: 380px;
 }
 .photo:hover{
     background-color: indigo;
 }
 .education{
     background-color: rgb(212, 23, 96);
-    width: 670px;
+    width: 385px;
     height: 400px;
-    margin-left: 665px;
+    margin-left: 400px;
 }
 .education:hover{
     background-color: red;
 }
 .hobbies{
     background-color: green;
-    width: 665px;
+    width: 400px;
     height: 400px;
     display: inline-block;
 }
@@ -38,10 +38,10 @@
 }
 .contact{
     background-color: red;
-    width: 665px;
+    width: 400px;
     height: 400px;
     display: inline-block;
-    margin-left: 670px;
+    margin-left: 380px;
 }
 .contact:hover{
     background-color: pink;
