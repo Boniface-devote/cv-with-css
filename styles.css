@@ -1,0 +1,58 @@
+.bio{
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    
+}
+.bio:hover{
+    background-color: slateblue;
+}
+.photo{
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    margin-left: 380px;
+}
+.photo:hover{
+    background-color: indigo;
+}
+.education{
+    background-color: rgb(212, 23, 96);
+    width:385px;
+    height:400px;
+    margin-left: 400px;
+    text-align: centre;
+}
+.education:hover{
+    background-color: red;
+}
+.hobbies{
+    background-color: green;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+}
+.hobbies:hover{
+    background-color: greenyellow;
+}
+.contact{
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    margin-left: 380px;
+}
+.contact:hover{
+    background-color: pink;
+}
+p{
+    margin: 0px;
+    font-size: xx-large;
+    margin-left: 20px;
+}
+div{
+    margin: 0px;
+    border: 0px;
+}
